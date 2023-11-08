@@ -94,7 +94,7 @@ footer
 	background-color: #666;
 	min-height: 30px;
 	line-height: 30px;
-	border-radius:10px 10px 0px 0px;
+	border-radius:10px 10px 1px 1px;
 }
 
 .footer-bottom ul.link-list
@@ -140,7 +140,6 @@ footer
 	.video
 	{
 		border-left: none;
-		padding-left: none;
 	}
 }
 

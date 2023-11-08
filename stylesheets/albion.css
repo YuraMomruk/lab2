@@ -1,11 +1,11 @@
 .green
 {
 	background:url(../images/header-bg.jpg);
-	box-shadow: 0px 5px 30px #312f30;
+	box-shadow: 1px 5px 30px #312f30;
 }
 .editForm
 {
-	margin: 10px 0px 40px 0px !important
+	margin: 10px 1px 40px 1px !important
 }
 .inputPrice
 {
@@ -15,15 +15,15 @@
 .tovarcontrolsrow
 {
 	background: white;
-	margin: 10px 0px !important;
-	padding: 10px 0px !important;
+	margin: 10px 1px !important;
+	padding: 10px 1px !important;
 	max-height: 100px !important;
 	border-bottom: 1px solid #e6e6fa;
 	border-top: 1px solid #e6e6fa;
 }
 .buttons
 {
-	margin: 5px 0px !important;
+	margin: 5px 1px !important;
 }
 .description
 {
@@ -52,7 +52,7 @@
 .searchbutton, .searchinput
 {
 	height: 40px !important;
-	padding:0px !important;
+	padding: 1px !important;
 }
 .right
 {
@@ -70,7 +70,7 @@
 	line-height: 40px !important;
 	vertical-align: middle !important;
 	color:white !important;
-	margin: 10px 0px !important;
+	margin: 10px 1px !important;
 }
 body
 {
@@ -98,7 +98,7 @@ body
 }
 .itemtovar
 {
-	margin: 10px 0px;
+	margin: 10px 1px;
 }
 .itemtovar .titleitem
 {
@@ -151,7 +151,7 @@ body
 }
 .first .rightMenu
 {
-	margin: 0px 0px 10px 0px !important;
+	margin: 1px 1px 10px 1px !important;
 }
 .rightMenu
 {

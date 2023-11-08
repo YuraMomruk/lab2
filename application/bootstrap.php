@@ -1,5 +1,5 @@
 <?php
-	define("baseaddress", "http://mvc.php");
+	define("baseaddress", "");
 	try
 	{
 		require_once 'core/model.php';
